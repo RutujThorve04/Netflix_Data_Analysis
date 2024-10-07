@@ -55,9 +55,8 @@ Created an interactive dashboard in Power BI to visualize Netflix’s performanc
 Total Movies: 5,651 movies in the dataset.
 Total Shows: 2,325 shows in the dataset.
 Trend Analysis:
-a.The number of movies released saw a gradual increase over the years, with a significant spike in 2016, where releases jumped from 363 to 588.
-  b.For TV shows, the dataset shows a notable spike starting in 2011, when 38 shows were added. This trend continued with 150 shows released in 2015, eventually peaking at 357 shows in 2020.
-  c. The year 2018 marked an all-time high for both movies and TV shows released, reflecting Netflix's rapid content expansion during that period.
+The number of movies released saw a gradual increase over the years, with a significant spike in 2016, where releases jumped from 363 to 588.
+For TV shows, the dataset shows a notable spike starting in 2011, when 38 shows were added. This trend continued with 150 shows released in 2015, eventually peaking at 357 shows in 2020. The year 2018 marked an all-time high for both movies and TV shows released, reflecting Netflix's rapid content expansion during that period.
 
 3. Genre Performance:
 Movies: Drama emerged as the most dominant genre, followed by Comedy, showcasing Netflix's strong focus on these popular categories.
